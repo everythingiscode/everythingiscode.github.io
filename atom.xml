@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[everything is code]]></title>
+  <link href="http://everythingiscode.github.io/atom.xml" rel="self"/>
+  <link href="http://everythingiscode.github.io/"/>
+  <updated>2014-06-28T18:18:49+01:00</updated>
+  <id>http://everythingiscode.github.io/</id>
+  <author>
+    <name><![CDATA[Nohacks Allowed]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://everythingiscode.github.io/blog/2014/06/28/test/"/>
+    <updated>2014-06-28T15:48:46+01:00</updated>
+    <id>http://everythingiscode.github.io/blog/2014/06/28/test</id>
+    <content type="html"><![CDATA[<p>noga</p>
+]]></content>
+  </entry>
+  
+</feed>
