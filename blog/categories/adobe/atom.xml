@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[everything is code]]></title>
-  <link href="http://everythingiscode.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: adobe | everything is code]]></title>
+  <link href="http://everythingiscode.github.io/blog/categories/adobe/atom.xml" rel="self"/>
   <link href="http://everythingiscode.github.io/"/>
   <updated>2014-07-03T20:48:34+01:00</updated>
   <id>http://everythingiscode.github.io/</id>
@@ -25,8 +25,8 @@
 <h2>Our goal</h2>
 
 <p>Our task is to show Toobars at the beginning and and end of the container component which resemble following structure:
-<img src="http://everythingiscode.github.io/images/blog/2013/07/02/start.png" alt="Start bar" />
-<img src="http://everythingiscode.github.io/images/blog/2013/07/02/end.png" alt="End bar" /></p>
+<img src="/images/blog/2013/07/02/start.png" alt="Start bar" />
+<img src="/images/blog/2013/07/02/end.png" alt="End bar" /></p>
 
 <h1>Start bar</h1>
 
@@ -86,7 +86,7 @@ editContext.getEditConfig().getToolbar().set(0, new Toolbar.Label("End of " + pa
 
 <p>If you got everything right your component should be looking similarly to:</p>
 
-<p><img src="http://everythingiscode.github.io/images/blog/2013/07/02/container.png" alt="Container" /></p>
+<p><img src="/images/blog/2013/07/02/container.png" alt="Container" /></p>
 ]]></content>
   </entry>
   
